@@ -1,0 +1,16 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+tensorflow>=2.12
+torch>=2.0
+transformers>=4.41
+pillow>=9.5
+matplotlib>=3.7
+seaborn>=0.12
+nltk>=3.8
+emoji>=2.8
+praw>=7.7
+textblob>=0.17
+wordcloud>=1.9
+requests>=2.31
+jupyterlab>=4.0
